@@ -1,4 +1,3 @@
-<img width="1162" height="653" alt="Screenshot 2026-04-20 122246" src="https://github.com/user-attachments/assets/b988fddb-a97f-4ef4-8989-e19cece31d0e" />
 # Nike Sales Performance Analysis 👟📊
 End-to-end sales analysis of 3,500+ Nike transactions across  5 countries using Excel, Power BI and DAX
 
