@@ -17,23 +17,26 @@ Excel, Power BI and DAX.
   across 3,500 records
 
 ## Tools Used
-- Microsoft Excel — SUMIF, AVERAGEIF, COUNTIF, Pivot Tables
-- Power BI — Interactive dashboard, slicers, map visuals
-- DAX — 10+ measures including Profit Margin %, 
+- Microsoft Excel: SUMIF, AVERAGEIF, COUNTIF, Pivot Tables
+- Power BI: Interactive dashboard, slicers, map visuals
+- DAX: 10+ measures including Profit Margin %, 
   Revenue Contribution % and Channel Rank
-- SQL — Data extraction, validation and channel-level 
+- SQL: Data extraction, validation and channel-level 
   insights using GROUP BY, JOINS and aggregations
 
 ## Dashboard Features
-- Page 1 Sales Overview — Revenue by country map, 
+- Page 1 Sales Overview: Revenue by country map, 
   monthly trend line, sales channel bar chart, 
   category donut chart and KPI cards
-- Page 2 Customer Insights — Discount vs revenue scatter 
+- Page 2 Customer Insights: Discount vs revenue scatter 
   chart, profit by subcategory, rating by product and 
   demographic analysis with dynamic slicers
 
+  <img width="1162" height="652" alt="Screenshot 2026-04-20 122208" src="https://github.com/user-attachments/assets/1193919c-8014-4e2a-a47a-80e03eb15364" />
+
+
 ## Data Validation Steps
-- Checked for duplicates — none found
+- Checked for duplicates: none found
 - Verified data types across all 21 columns
 - Null value analysis across 3,500 records
 - Confirmed 100% data integrity before analysis
@@ -48,6 +51,6 @@ Excel, Power BI and DAX.
 - AI Assisted Workflow
 
 ## Files Included
-- Nike_Sales_Data_2024.xlsx — Raw dataset
-- Nike_Sales_Dashboard.pbix — Power BI dashboard file
-- README.md — Project documentation
+- Nike_Sales_Data_2024.xlsx - Raw dataset
+- Nike_Sales_Dashboard.pbix - Power BI dashboard file
+- README.md - Project documentation
