@@ -1,3 +1,4 @@
+<img width="1162" height="653" alt="Screenshot 2026-04-20 122246" src="https://github.com/user-attachments/assets/b988fddb-a97f-4ef4-8989-e19cece31d0e" />
 # Nike Sales Performance Analysis 👟📊
 End-to-end sales analysis of 3,500+ Nike transactions across  5 countries using Excel, Power BI and DAX
 
@@ -33,6 +34,8 @@ Excel, Power BI and DAX.
   demographic analysis with dynamic slicers
 
   <img width="1162" height="652" alt="Screenshot 2026-04-20 122208" src="https://github.com/user-attachments/assets/1193919c-8014-4e2a-a47a-80e03eb15364" />
+
+<img width="1162" height="653" alt="Screenshot 2026-04-20 122246" src="https://github.com/user-attachments/assets/a0e22f8e-4e07-4ba3-89bc-9f3e45a2a9c9" />
 
 
 ## Data Validation Steps
